@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Portfolio"
+  site-url: "https://robitsar.github.io/Portfolio"
+  description: "Quantitvive Investment Portfolio Analytics"
+  repo-branch: main
+  repo-url: "https://github.com/robitsar/Portfolio"
