@@ -1,6 +1,7 @@
 _docs/
 _proc/
 
+
 *.bak
 .gitattributes
 .last_checked
@@ -21,6 +22,9 @@ __pycache__/
 
 # C extensions
 *.so
+
+#Python3 extension
+Portfolio/bin
 
 # Distribution / packaging
 .Python
